@@ -1,0 +1,11 @@
+body {
+    font-family: "Baloo Thambi 2",cursive;
+  }
+path:hover{
+    fill: #eee;
+}
+.colour0 {fill: #b9b9b9;}
+.colour1 {fill: #ffa4a9;}
+.colour2 {fill: #cc6674;}
+.colour3 {fill: #993341;}
+.colour4 {fill: #66000e;}
